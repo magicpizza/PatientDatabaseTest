@@ -1,0 +1,18 @@
+// expression (use inspect to run)
+int a = 5;
+a = a * 10;
+a
+
+// statement (use execute to run)
+System.out.println("hello world");
+
+// importing the package patientdatabasePatient p = new Patient();
+p.setName("Fred");
+p.toString()
+
+// <> tells compiler that the list can only hold String type objects
+ArrayList<String> list = new ArrayList<String>();
+
+list.add(String "test1");
+list.add(String "test2");
+
